@@ -13,7 +13,7 @@ import PaymentFailed from './pages/PaymentFailed';
 function App() {
     return (
         <Router>
-            <div className="min-h-screen bg-gray-250 flex flex-col">
+            <div className="min-h-screen bg-gray-200 flex flex-col">
                 <Navbar />
                 <main className="flex-grow container mx-auto px-4 sm:px-6 lg:px-8 py-8">
                     <Routes>

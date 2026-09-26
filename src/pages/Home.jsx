@@ -35,7 +35,7 @@ const Home = () => {
                 <div className="relative p-10 md:p-20 text-center flex flex-col items-center z-10">
                     <span className="bg-white/20 text-white backdrop-blur-md px-4 py-1.5 rounded-full text-xs font-bold tracking-widest uppercase mb-6 border border-white/20">Welcome to GatherWay</span>
                     <h1 className="text-5xl md:text-7xl font-black mb-6 leading-tight tracking-tight drop-shadow-lg">
-                       <span className="text-transparent text-5xl bg-clip-text bg-gradient-to-r from-gray-500 to-gray-200"> Discover Experiences</span> <br /><span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-200 to-gray-500">Worth Remembering</span> 
+                       <span className="text-transparent text-5xl bg-clip-text bg-gradient-to-r from-gray-500 to-gray-100"> Discover Experiences</span> <br /><span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-100 to-gray-500">Worth Remembering</span> 
                     </h1>
                     <p className="text-gray-300 text-lg md:text-xl mb-10 max-w-2xl mx-auto font-light leading-relaxed">
                         Explore exciting events near you, from tech conferences and music festivals to hands-on workshops. Book your experience today.
